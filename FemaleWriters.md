@@ -73,7 +73,7 @@
 
 | 작품명 | URL | 발행연도 | 
 |--|--|--| 
-| Daddy Log Legs | hhttps://www.gutenberg.org/ebooks/157 |  1912 |
+| Daddy Log Legs | https://www.gutenberg.org/ebooks/157 |  1912 |
 | Dear Enemy | https://www.gutenberg.org/ebooks/238 | 1915|
 | Daddy Long-Legs: A Comedy in Four Act|  https://www.gutenberg.org/ebooks/40426  | 1912 |  
 
