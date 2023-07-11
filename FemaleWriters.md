@@ -29,7 +29,7 @@
 | 작품명 | URL | 발행연도 |  
 |--|--|--| 
 | Frankenstein; or, The Modern Prometheus |https://www.gutenberg.org/ebooks/84|  1818 |  
-| Valperga |                      | 1823 |  
+| Valperga | https://www.gutenberg.org/ebooks/63337  https://www.gutenberg.org/ebooks/63338  https://www.gutenberg.org/ebooks/63339                    | 1823 |  
 | Rambles in Germany and Italy |     | 1844  |  
 
 
