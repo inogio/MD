@@ -37,17 +37,31 @@
 
 <details>
     <summary>Lucy Maud Montgomery(1874~1942)</summary>
-    <p> ....</p>
+    <p>대표작으로 고아 출신으로 상상력 풍부한 빨강머리 소녀가 아름답게 자라나서 어렸을 때 소꿉친구와 결혼까지 하게 되는 기나긴 이야기인 빨강머리 앤 시리즈가 있다. 어린 시절부터 문학적 감수성이 뛰어나 열다섯 살에 이미 지역신문에 글을 싣기도 했다. 우연히 이웃 독신 남매의 집에 어린 조카딸이 와서 사는 것을 보고, 자신의 상상을 더해 《빨강 머리 앤》을 완성했다. </p>
+    <p>삶 자체는 꽤 불행한 편이었다고 한다. 명문가에서 태어났으나 생후 21개월만에 어머니를 잃으면서 캐번디시에서 우체국을 경영하는 외조부모 밑에서 자랐는데, 외할아버지가 매우 성마른 성격의 소유자라 외할아버지에게 서운한 구석이 많았다고 한다. 그 외에도 맥네일 집안의 친척들이 하루가 멀다하고 와서 이러쿵 저러쿵 설교를 늘어놓는 것도 매우 부담스러웠다고 한다. 이때의 그녀는 아름다운 자연 속에서 뛰어노는 걸 매우 좋아했고, 섬세한 감수성과 작가적 재능을 자연과 함께 키워나갔다. 캐번디시는 농민과 어민이 한데 어울려 사는 농촌 마을이었다. 노인들 틈에서 자라다 보니, 그녀는 책을 읽고 상상을 하면서 노는 시간이 많았다.</p>
+    <p>친할아버지는 캐나다의 보수당 상원의원장을 역임한 저명인사로 상당한 부자였고, 모드의 아버지에게 많은 지원을 해주었으나 능력이 없던 그는 하는 일마다 족족 실패했으며, 진보당에서 정치를 하겠다 주장하다가 결국 부자가 의절하면서 모드가 친가 덕을 본 적은 거의 없다시피 하다. 훗날 친할아버지는 모드의 아버지 대신 막내아들에게 유산을 상속했고, 손자들의 학비만을 마련해두었다고 한다.</p>
+    <p>몽고메리의 인생에서 글쓰기는 언제나 아주 큰 부분이었다. 몽고메리는 책 말고 일기도 쓰고 스크랩북도 만들어서 소설에 쓸 아이디어를 모았고, 신문, 잡지에도 글을 투고했다. 몽고메리는 사진 찍기도 좋아해서 개인 암실을 마련하고 특수 효과를 실험하기도 했다.</p>
+    학교를 마친 뒤에는 사범 대학에 갔고, 이어 대학교에서 영문학을 공부했다. 고등 교육을 받는 여자가 극소수인 시절이었기에, 이것은 아주 특별한 일이었다. 몽고메리는 두 학교에서 받은 학위를 잘 활용해서 몇 년 동안 교사로도 일하고 신문 기자로도 일했다.
+    핼리팩스에서 신문기자를 하고 연애도 몇번 했지만 할머니를 부양해야 했기 때문에 결혼은 포기하고 캐번디쉬로 돌아와야 했다. 할머니 사후인 37살에 목사인 이완 맥도널드와 결혼을 했는데, 남편이 정신병을 앓게 되어 무척 마음 고생을 했다.</p>
+    <p>남편 맥도널드 목사는 그녀의 처녀적 성이 쓰인 팬레터를 받고 불쾌감을 표시하거나 모드의 소설을 읽지도 않았지만, 모드와 맥도널드 목사의 사이는 그렇게 나쁜 편은 아니었다고 하며 여러 자녀를 두었다. 다만 그녀는 타인의 시선에 매우 민감한 성격이었기 때문에, 자녀 중 제일 아끼는 장남 체스터가 유급을 하는가 하면 사회적 지위가 낮은 여자아이를 만나 임신시켜서 비밀 결혼을 한 사실을 알고 매우 절망했다고 한다. 사람들의 구설수에 오르는 것을 극도로 싫어했기 때문에 목사 부인인 자신의 아들이 그런 짓을 저지르자 사람들의 눈총을 받게 될까 그랬던 것이다.
+    최후는 음독 자살이거나 약물중독이라는 말이 있다. (참조) 1941년 토론토에서 68세로 숨을 거두었고, 고향 캐번디시에 묻혔다.</p>
 </details>
 
 | 작품명 | URL | 발행연도 | 
 |--|--|--| 
-| Northanger Abbey | https://www.planetebook.com/northanger-abbey/|  1817 |
-| Emma | https://www.planetebook.com/emma/| 1816 |
-| Persuasion |  https://www.planetebook.com/persuasion/   | 1818  | 
-| Pride and Prejudice | https://www.planetebook.com/pride-and-prejudice/|    | 
-| Sense and Sensibility | https://www.planetebook.com/sense-and-sensibility/|    | 
-
+| The Blue Castle  |  https://www.gutenberg.org/ebooks/67979  |1926|
+| Anne of Green Gables  |  https://www.gutenberg.org/ebooks/45  | 1908~2009|
+| Anne of Avonlea  |  https://www.gutenberg.org/ebooks/47  | - |
+| Anne of the Island   |  https://www.gutenberg.org/ebooks/51  | - | 
+| The Blythes Are Quoted  |    | 2009 |
+| Anne's House of Dreams    |  https://www.gutenberg.org/ebooks/544   | - |
+| Rilla of Ingleside   |   https://www.gutenberg.org/ebooks/3796   | - |
+| Rainbow Valley    |   https://www.gutenberg.org/ebooks/5343   | - |
+| Emily of New Moon   |   https://www.gutenberg.org/ebooks/61236  |1923~1927|
+| The Story Girl    |  https://www.gutenberg.org/ebooks/5342  |1911~1913|
+| The Golden Road    |  https://www.gutenberg.org/ebooks/316   | - |
+| Chronicles of Avonlea   |   https://www.gutenberg.org/ebooks/1354   | - |
+| Lucy Maud Montgomery Short Stories    |   https://www.gutenberg.org/ebooks/24875   | - |
 
 
 
@@ -78,11 +92,10 @@
 | Mrs Dalloway |  https://www.gutenberg.org/ebooks/63107 |  1825 |
 | To the Lighthouse | - | 1927 |
 | Orlando |  -  | 1928  | 
-| 	
-A Room of One's Own(AROOO) | https://www.gutenberg.org/ebooks/5670 | 
+| A Room of One's Own(AROOO) | https://www.gutenberg.org/ebooks/5670 | 
 | Flush | - |1933| 
-| The Years |  -| 1937   | 
-| Three Guineas | -| 1938 | 
+| The Years | - | 1937   | 
+| Three Guineas | - | 1938 | 
 
 
 
