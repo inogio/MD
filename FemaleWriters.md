@@ -8,7 +8,7 @@
 
 | 작품명 | URL | 비고 | 
 |--|--|--| 
-| # Northanger Abbey | https://www.planetebook.com/northanger-abbey/|  1817 |
+| Northanger Abbey | https://www.planetebook.com/northanger-abbey/|  1817 |
 | Emma | https://www.planetebook.com/emma/| 1816 |
 | Persuasion |  https://www.planetebook.com/persuasion/   | 1818  | 
 | Pride and Prejudice | https://www.planetebook.com/pride-and-prejudice/|    | 
@@ -23,7 +23,7 @@
 
 | 작품명 | URL | 비고 | 
 |--|--|--| 
-| # Northanger Abbey | https://www.planetebook.com/northanger-abbey/|  1817 |
+| Northanger Abbey | https://www.planetebook.com/northanger-abbey/|  1817 |
 | Emma | https://www.planetebook.com/emma/| 1816 |
 | Persuasion |  https://www.planetebook.com/persuasion/   | 1818  | 
 | Pride and Prejudice | https://www.planetebook.com/pride-and-prejudice/|    | 
