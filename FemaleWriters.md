@@ -9,7 +9,7 @@
 <p>Knowledge base widget</p>
 <p>API documentation</p>
 
-    </details>
+</details>
 
 <details>
     <summary>Mary Shelley (1797 - 1851) </summary>
@@ -20,4 +20,4 @@
 <p>Knowledge base widget</p>
 <p>API documentation</p>
 
-    </details>
+</details>
