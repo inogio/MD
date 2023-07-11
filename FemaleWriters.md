@@ -11,7 +11,7 @@
 
     </details>
 
-    <details>
+<details>
     <summary>Mary Shelley (1797 - 1851) </summary>
     <p>A well structured product to create a world class knowledge base for your customers and employees. Content producers get the power whereas the Content consumers get the simplicity.</p>
 <h4>Core parts</h4>
