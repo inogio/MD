@@ -101,5 +101,4 @@ A Room of One's Own(AROOO) | https://www.gutenberg.org/ebooks/5670 |
 | 작품명 | URL | 발행연도 | 
 |--|--|--| 
 | Free Food for Millionaires |https://www.google.co.kr/books/edition/Free_Food_for_Millionaires/0bOfEAAAQBAJ?hl=ko&gbpv=0|  2008 |
-| 
-파친코(Pachinko)| https://www.google.co.kr/books/edition/Pachinko_National_Book_Award_Finalist/9sbjDAAAQBAJ?hl=ko&gbpv=0 | 2017 | 
+| 파친코(Pachinko)| https://www.google.co.kr/books/edition/Pachinko_National_Book_Award_Finalist/9sbjDAAAQBAJ?hl=ko&gbpv=0 | 2017 | 
